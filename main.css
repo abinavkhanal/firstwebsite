@@ -17,3 +17,22 @@ h1 {
 p {
     color:salmon;
   }
+  .title{
+    font-size: 90px;
+}
+h2 {
+    background-color:orangered;
+    color: #ffffff;
+  }
+  body {
+  background-color: lightblue;
+  }
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+/* This is a single-line comment */
+p {
+    color:salmon;
+
+}
